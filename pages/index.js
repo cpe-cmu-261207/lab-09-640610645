@@ -11,21 +11,19 @@ export default function Home() {
           class="rounded-circle"
         />
       </div>
-      <div className="text-center ">
+      <div className="text-center">
         <h3>Nontapan Chanadee</h3>
         <p className="p-3">Student</p>
         <p>
           Hi, my name is Nontapan(Kla).
-          <br />
-          I am currently studying for a Bachelor’s degree in Computer
+          <br />I am currently studying for a Bachelor’s degree in Computer
           Engineering at Chiang Mai University.
           <br />
           I am interested in music, football(soccer) and motorsport.
-          <br />
-          I am a coffee lover.
-          <hr className="my-4" />
+          <br />I am a coffee lover.
         </p>
       </div>
+      <hr />
 
       <div className="text-center">
         <h4>My Skills</h4>

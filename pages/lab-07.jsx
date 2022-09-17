@@ -123,10 +123,6 @@ export default function Lab07() {
           made by Nontapan Chanadee 640610645
         </p>
       </div>
-      <div className="p-5"></div>
-      <div className="p-5"></div>
-      <div className="p-5"></div>
-      <div className="p-3"></div>
     </MainLayout>
   );
 }
